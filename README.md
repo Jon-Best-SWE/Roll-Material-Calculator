@@ -14,8 +14,8 @@ To run this application, follow these installation steps:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/Jon-Best-SWE/roll-length-calculator.git
-cd roll-length-calculator
+git clone https://github.com/Jon-Best-SWE/Roll-Material-Calculator.git
+cd Roll-Material-Calculator
 ```
 ## Install Dependencies
 ```bash
