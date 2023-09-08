@@ -29,9 +29,9 @@ pip install pyinstaller
 python Jon_Best_Roll_Material_Calculator.py
 ```
 2. Using the Application
-  • The application will launch, providing a user-friendly interface for material length calculations.
-  • Enter the required inputs, and the application will handle validation and error handling to ensure accurate results.
-  • Follow on-screen instructions and prompts to calculate material lengths effectively.
+- The application will launch, providing a user-friendly interface for material length calculations.
+- Enter the required inputs, and the application will handle validation and error handling to ensure accurate results.
+- Follow on-screen instructions and prompts to calculate material lengths effectively.
 
 3. Building Standalone Executables (Optional)
 ```bash
