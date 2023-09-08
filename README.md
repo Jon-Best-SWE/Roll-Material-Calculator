@@ -13,10 +13,10 @@ This Python GUI application, the Roll Length Calculator, is designed to assist u
 To run this application, follow these installation steps:
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Jon-Best-SWE/roll-length-calculator.git
-   cd roll-length-calculator
-   ```
+```bash
+git clone https://github.com/Jon-Best-SWE/roll-length-calculator.git
+cd roll-length-calculator
+```
 ## Install Dependencies
 ```bash
 pip install PySide2
