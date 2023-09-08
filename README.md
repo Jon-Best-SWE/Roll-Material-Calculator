@@ -14,7 +14,7 @@ To run this application, follow these installation steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/roll-length-calculator.git
+   git clone https://github.com/Jon-Best-SWE/roll-length-calculator.git
    cd roll-length-calculator
    ```
 ## Install Dependencies
@@ -37,6 +37,3 @@ python Jon_Best_Roll_Material_Calculator.py
 ```bash
 pyinstaller --onefile main.py
 ```
-
-
-
